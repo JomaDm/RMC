@@ -1,3 +1,4 @@
+#Informacion obtenida de: https://metro.cdmx.gob.mx/longitud-de-estacion
 #Linea1
 Pantitlán-Zaragoza:1320
 Zaragoza-Pantitlán:1320
