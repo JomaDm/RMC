@@ -95,8 +95,9 @@ for i in lineas:
 
 #encontrarRMC_PorValor(grafo,"A","C",0)
 #encontrarRMC_PorImpulso(grafo2,"F","D")
-encontrarRMC_PorImpulso(metro,"La Raza","San Lázaro")
+encontrarRMC_PorImpulso(metro,"Nezahualcóyotl","Universidad")
 
     
-    
+
+
 
